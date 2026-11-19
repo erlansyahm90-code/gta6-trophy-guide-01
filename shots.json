@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","path":"/","state":"12 trophies earned","view":"toolbar (search, grade, sort, kind filters, spoiler toggle, export/import) + checklist with Positive Mental Attitude's cited guide open","viewport":{"height":800,"width":1280}},{"file":"2-roadmap.jpg","path":"/","state":"12 trophies earned","view":"missable-trophy alert + roadmap to the platinum, stages 1-5","viewport":{"height":800,"width":1280}},{"file":"3-guide-silver.jpg","path":"/","state":"12 trophies earned","view":"grade filter Silver + The Shootist's guide open (count, 100% line, sources) + 100% comparison table","viewport":{"height":800,"width":1280}},{"file":"4-spoiler-story.jpg","path":"/","state":"12 trophies earned","view":"spoiler mode on + Story filter: unearned story trophies masked, earned ones revealed","viewport":{"height":800,"width":1280}}]
